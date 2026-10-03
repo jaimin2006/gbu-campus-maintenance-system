@@ -1,0 +1,6 @@
+{
+  "name": "GBU-CMS — Centralized Campus Maintenance System",
+  "description": "Integrated campus maintenance platform for Gautam Buddha University covering Civil, Electrical, and Horticulture work orders, inventory, and inspections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
